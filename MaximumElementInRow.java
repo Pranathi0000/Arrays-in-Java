@@ -64,7 +64,7 @@ public abstract class MaximumElementInRow {
 		
 		for(int i=0;i<size;i++)
 		{
-			System.out.println("Greatest number in " +i+ " is: "+ maxElement[i]);
+			System.out.println("Greatest number in " +i+ " row "+  "is: "+ maxElement[i]);
 		}
 	}
 
