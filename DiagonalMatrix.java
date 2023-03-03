@@ -1,3 +1,14 @@
+/* 
+   Program to find whether the given array is a diagonal matrix or not.
+   A square matrix is said to be Diagonal matrix if all the elements other then the diagonal elements are zero.
+   
+   Example:
+   
+     1 0 0
+     0 2 0
+     0 0 3
+*/
+
 package arrays;
 
 import java.util.Scanner;
